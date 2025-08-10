@@ -1,9 +1,10 @@
-📊 Student Result Analysis
-📌 Overview
+📊 **Student Result Analysis**
+
+📌 **Overview**
 This project analyzes student performance data to understand how various factors (like gender, parental education, study hours, and more) affect academic results.
 It uses Python for data analysis and visualization.
 
-🗂 Dataset
+🗂 **Dataset**
 The dataset used is Expanded_data_with_more_features.csv, containing details such as:
 
 Gender
@@ -18,7 +19,7 @@ Scores in various subjects
 
 Ethnic group
 
-🔍 Key Steps
+🔍 **Key Steps**
 Data Loading & Cleaning
 
 Removed unnamed columns.
@@ -57,7 +58,7 @@ Higher parental education correlates with higher student performance.
 
 Parents' marital status has negligible effect on scores.
 
-🛠 Technologies Used
+🛠 **Technologies Used**
 Python
 
 NumPy
